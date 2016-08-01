@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="apostrophe" format="1">
   <advance width="518"/>
-  <unicode hex="02BC"/>
+  <unicode hex="2019"/>
   <outline>
-    <contour>
-      <point x="222" y="526" type="move" name="_top"/>
-    </contour>
     <contour>
       <point x="379" y="730" type="line"/>
       <point x="180" y="730" type="line"/>
@@ -13,9 +10,14 @@
       <point x="160" y="588" type="line"/>
       <point x="280" y="556" type="line"/>
     </contour>
+    <contour>
+      <point x="222" y="526" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-01 10:39:17 +0000</string>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

@@ -3,17 +3,19 @@
   <advance width="270"/>
   <outline>
     <contour>
-      <point x="135" y="526" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="220" y="-213" type="line"/>
       <point x="220" y="-63" type="line"/>
       <point x="50" y="-63" type="line"/>
       <point x="50" y="-213" type="line"/>
     </contour>
+    <contour>
+      <point x="135" y="526" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-01 10:39:17 +0000</string>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

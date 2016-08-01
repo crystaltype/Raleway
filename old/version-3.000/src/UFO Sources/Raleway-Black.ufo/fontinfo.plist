@@ -12,12 +12,12 @@
 	<integer>-213</integer>
 	<key>familyName</key>
 	<string>Raleway</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Raleway</string>
+	<key>openTypeHeadCreated</key>
+	<string>2016/08/01 12:39:17</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
 	<key>openTypeHheaAscender</key>
@@ -141,7 +141,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.039600000000000003</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -157,12 +157,6 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>Raleway-Black</string>
 	<key>postscriptForceBold</key>
@@ -177,7 +171,7 @@
 		<integer>-213</integer>
 	</array>
 	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
+	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>160</integer>
@@ -193,8 +187,6 @@
 	<integer>50</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
-	<key>postscriptWeightName</key>
-	<string>Black</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapFamilyName</key>
@@ -208,7 +200,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>

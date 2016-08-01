@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s_t" format="1">
   <advance width="910"/>
-  <unicode hex="FB06"/>
   <outline>
     <contour>
       <point x="870" y="179" type="line"/>
@@ -85,6 +84,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-01 10:39:17 +0000</string>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

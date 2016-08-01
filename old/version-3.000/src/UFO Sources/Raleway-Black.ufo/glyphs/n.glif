@@ -4,12 +4,6 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="333" y="526" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="311" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
       <point x="577" y="346" type="line" smooth="yes"/>
       <point x="577" y="418"/>
       <point x="560" y="536"/>
@@ -31,9 +25,17 @@
       <point x="387" y="0" type="line"/>
       <point x="577" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="333" y="526" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-01 10:39:17 +0000</string>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

@@ -7,7 +7,7 @@
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>A.sc</key>
-	<string>A__sc.glif</string>
+	<string>A_.sc.glif</string>
 	<key>AE</key>
 	<string>A_E_.glif</string>
 	<key>AEacute</key>
@@ -39,11 +39,11 @@
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>B.sc</key>
-	<string>B__sc.glif</string>
+	<string>B_.sc.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
 	<key>C.sc</key>
-	<string>C__sc.glif</string>
+	<string>C_.sc.glif</string>
 	<key>CR</key>
 	<string>C_R_.glif</string>
 	<key>Cacute</key>
@@ -59,7 +59,7 @@
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>D.sc</key>
-	<string>D__sc.glif</string>
+	<string>D_.sc.glif</string>
 	<key>Dcaron</key>
 	<string>D_caron.glif</string>
 	<key>Dcroat</key>
@@ -71,7 +71,7 @@
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>E.sc</key>
-	<string>E__sc.glif</string>
+	<string>E_.sc.glif</string>
 	<key>Eacute</key>
 	<string>E_acute.glif</string>
 	<key>Ebreve</key>
@@ -107,13 +107,13 @@
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>F.sc</key>
-	<string>F__sc.glif</string>
+	<string>F_.sc.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>G.alt</key>
-	<string>G__alt.glif</string>
+	<string>G_.alt.glif</string>
 	<key>G.sc</key>
-	<string>G__sc.glif</string>
+	<string>G_.sc.glif</string>
 	<key>Gacute</key>
 	<string>G_acute.glif</string>
 	<key>Gbreve</key>
@@ -127,7 +127,7 @@
 	<key>H</key>
 	<string>H_.glif</string>
 	<key>H.sc</key>
-	<string>H__sc.glif</string>
+	<string>H_.sc.glif</string>
 	<key>Hbar</key>
 	<string>H_bar.glif</string>
 	<key>Hcircumflex</key>
@@ -137,7 +137,7 @@
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>I.sc</key>
-	<string>I__sc.glif</string>
+	<string>I_.sc.glif</string>
 	<key>IJ</key>
 	<string>I_J_.glif</string>
 	<key>Iacute</key>
@@ -167,19 +167,19 @@
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>J.sc</key>
-	<string>J__sc.glif</string>
+	<string>J_.sc.glif</string>
 	<key>Jcircumflex</key>
 	<string>J_circumflex.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>K.sc</key>
-	<string>K__sc.glif</string>
+	<string>K_.sc.glif</string>
 	<key>Kcommaaccent</key>
 	<string>K_commaaccent.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>L.sc</key>
-	<string>L__sc.glif</string>
+	<string>L_.sc.glif</string>
 	<key>Lacute</key>
 	<string>L_acute.glif</string>
 	<key>Lcaron</key>
@@ -193,11 +193,11 @@
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M.sc</key>
-	<string>M__sc.glif</string>
+	<string>M_.sc.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
 	<key>N.sc</key>
-	<string>N__sc.glif</string>
+	<string>N_.sc.glif</string>
 	<key>NULL</key>
 	<string>N_U_L_L_.glif</string>
 	<key>Nacute</key>
@@ -213,7 +213,7 @@
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>O.sc</key>
-	<string>O__sc.glif</string>
+	<string>O_.sc.glif</string>
 	<key>OE</key>
 	<string>O_E_.glif</string>
 	<key>Oacute</key>
@@ -249,15 +249,15 @@
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>P.sc</key>
-	<string>P__sc.glif</string>
+	<string>P_.sc.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>Q.sc</key>
-	<string>Q__sc.glif</string>
+	<string>Q_.sc.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.sc</key>
-	<string>R__sc.glif</string>
+	<string>R_.sc.glif</string>
 	<key>Racute</key>
 	<string>R_acute.glif</string>
 	<key>Rcaron</key>
@@ -273,7 +273,7 @@
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.sc</key>
-	<string>S__sc.glif</string>
+	<string>S_.sc.glif</string>
 	<key>Sacute</key>
 	<string>S_acute.glif</string>
 	<key>Scaron</key>
@@ -287,7 +287,7 @@
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T.sc</key>
-	<string>T__sc.glif</string>
+	<string>T_.sc.glif</string>
 	<key>Tbar</key>
 	<string>T_bar.glif</string>
 	<key>Tcaron</key>
@@ -299,7 +299,7 @@
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>U.sc</key>
-	<string>U__sc.glif</string>
+	<string>U_.sc.glif</string>
 	<key>Uacute</key>
 	<string>U_acute.glif</string>
 	<key>Ubreve</key>
@@ -329,13 +329,13 @@
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>V.sc</key>
-	<string>V__sc.glif</string>
+	<string>V_.sc.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>W.alt</key>
-	<string>W__alt.glif</string>
+	<string>W_.alt.glif</string>
 	<key>W.sc</key>
-	<string>W__sc.glif</string>
+	<string>W_.sc.glif</string>
 	<key>Wacute</key>
 	<string>W_acute.glif</string>
 	<key>Wcircumflex</key>
@@ -347,11 +347,11 @@
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>X.sc</key>
-	<string>X__sc.glif</string>
+	<string>X_.sc.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
 	<key>Y.sc</key>
-	<string>Y__sc.glif</string>
+	<string>Y_.sc.glif</string>
 	<key>Yacute</key>
 	<string>Y_acute.glif</string>
 	<key>Ycircumflex</key>
@@ -365,7 +365,7 @@
 	<key>Z</key>
 	<string>Z_.glif</string>
 	<key>Z.sc</key>
-	<string>Z__sc.glif</string>
+	<string>Z_.sc.glif</string>
 	<key>Zacute</key>
 	<string>Z_acute.glif</string>
 	<key>Zcaron</key>
@@ -377,9 +377,9 @@
 	<key>a</key>
 	<string>a.glif</string>
 	<key>a.alt</key>
-	<string>a_alt.glif</string>
+	<string>a.alt.glif</string>
 	<key>a.alt2</key>
-	<string>a_alt2.glif</string>
+	<string>a.alt2.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
 	<key>abreve</key>
@@ -455,7 +455,7 @@
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>caron.alt</key>
-	<string>caron_alt.glif</string>
+	<string>caron.alt.glif</string>
 	<key>ccaron</key>
 	<string>ccaron.glif</string>
 	<key>ccedilla</key>
@@ -485,7 +485,7 @@
 	<key>d</key>
 	<string>d.glif</string>
 	<key>d.alt</key>
-	<string>d_alt.glif</string>
+	<string>d.alt.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
@@ -535,11 +535,11 @@
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>eight.denominator</key>
-	<string>eight_denominator.glif</string>
+	<string>eight.denominator.glif</string>
 	<key>eight.lnum</key>
-	<string>eight_lnum.glif</string>
+	<string>eight.lnum.glif</string>
 	<key>eight.numerator</key>
-	<string>eight_numerator.glif</string>
+	<string>eight.numerator.glif</string>
 	<key>eightinferior</key>
 	<string>eightinferior.glif</string>
 	<key>eightsuperior</key>
@@ -589,11 +589,11 @@
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.denominator</key>
-	<string>five_denominator.glif</string>
+	<string>five.denominator.glif</string>
 	<key>five.lnum</key>
-	<string>five_lnum.glif</string>
+	<string>five.lnum.glif</string>
 	<key>five.numerator</key>
-	<string>five_numerator.glif</string>
+	<string>five.numerator.glif</string>
 	<key>fiveeighths</key>
 	<string>fiveeighths.glif</string>
 	<key>fiveinferior</key>
@@ -605,11 +605,11 @@
 	<key>four</key>
 	<string>four.glif</string>
 	<key>four.denominator</key>
-	<string>four_denominator.glif</string>
+	<string>four.denominator.glif</string>
 	<key>four.lnum</key>
-	<string>four_lnum.glif</string>
+	<string>four.lnum.glif</string>
 	<key>four.numerator</key>
-	<string>four_numerator.glif</string>
+	<string>four.numerator.glif</string>
 	<key>fourinferior</key>
 	<string>fourinferior.glif</string>
 	<key>foursuperior</key>
@@ -691,7 +691,7 @@
 	<key>j</key>
 	<string>j.glif</string>
 	<key>j.alt</key>
-	<string>j_alt.glif</string>
+	<string>j.alt.glif</string>
 	<key>jcircumflex</key>
 	<string>jcircumflex.glif</string>
 	<key>k</key>
@@ -703,7 +703,7 @@
 	<key>l</key>
 	<string>l.glif</string>
 	<key>l.alt</key>
-	<string>l_alt.glif</string>
+	<string>l.alt.glif</string>
 	<key>lacute</key>
 	<string>lacute.glif</string>
 	<key>lcaron</key>
@@ -749,11 +749,11 @@
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nine.denominator</key>
-	<string>nine_denominator.glif</string>
+	<string>nine.denominator.glif</string>
 	<key>nine.lnum</key>
-	<string>nine_lnum.glif</string>
+	<string>nine.lnum.glif</string>
 	<key>nine.numerator</key>
-	<string>nine_numerator.glif</string>
+	<string>nine.numerator.glif</string>
 	<key>nineinferior</key>
 	<string>nineinferior.glif</string>
 	<key>ninesuperior</key>
@@ -793,11 +793,11 @@
 	<key>one</key>
 	<string>one.glif</string>
 	<key>one.denominator</key>
-	<string>one_denominator.glif</string>
+	<string>one.denominator.glif</string>
 	<key>one.lnum</key>
-	<string>one_lnum.glif</string>
+	<string>one.lnum.glif</string>
 	<key>one.numerator</key>
-	<string>one_numerator.glif</string>
+	<string>one.numerator.glif</string>
 	<key>oneeighth</key>
 	<string>oneeighth.glif</string>
 	<key>onehalf</key>
@@ -851,7 +851,7 @@
 	<key>q</key>
 	<string>q.glif</string>
 	<key>q.alt</key>
-	<string>q_alt.glif</string>
+	<string>q.alt.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>questiondown</key>
@@ -915,11 +915,11 @@
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>seven.denominator</key>
-	<string>seven_denominator.glif</string>
+	<string>seven.denominator.glif</string>
 	<key>seven.lnum</key>
-	<string>seven_lnum.glif</string>
+	<string>seven.lnum.glif</string>
 	<key>seven.numerator</key>
-	<string>seven_numerator.glif</string>
+	<string>seven.numerator.glif</string>
 	<key>seveneighths</key>
 	<string>seveneighths.glif</string>
 	<key>seveninferior</key>
@@ -929,11 +929,11 @@
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.denominator</key>
-	<string>six_denominator.glif</string>
+	<string>six.denominator.glif</string>
 	<key>six.lnum</key>
-	<string>six_lnum.glif</string>
+	<string>six.lnum.glif</string>
 	<key>six.numerator</key>
-	<string>six_numerator.glif</string>
+	<string>six.numerator.glif</string>
 	<key>sixinferior</key>
 	<string>sixinferior.glif</string>
 	<key>sixsuperior</key>
@@ -949,7 +949,7 @@
 	<key>t</key>
 	<string>t.glif</string>
 	<key>t.alt</key>
-	<string>t_alt.glif</string>
+	<string>t.alt.glif</string>
 	<key>tbar</key>
 	<string>tbar.glif</string>
 	<key>tcaron</key>
@@ -961,11 +961,11 @@
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three.denominator</key>
-	<string>three_denominator.glif</string>
+	<string>three.denominator.glif</string>
 	<key>three.lnum</key>
-	<string>three_lnum.glif</string>
+	<string>three.lnum.glif</string>
 	<key>three.numerator</key>
-	<string>three_numerator.glif</string>
+	<string>three.numerator.glif</string>
 	<key>threeeighths</key>
 	<string>threeeighths.glif</string>
 	<key>threeinferior</key>
@@ -981,11 +981,11 @@
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.denominator</key>
-	<string>two_denominator.glif</string>
+	<string>two.denominator.glif</string>
 	<key>two.lnum</key>
-	<string>two_lnum.glif</string>
+	<string>two.lnum.glif</string>
 	<key>two.numerator</key>
-	<string>two_numerator.glif</string>
+	<string>two.numerator.glif</string>
 	<key>twoinferior</key>
 	<string>twoinferior.glif</string>
 	<key>twosuperior</key>
@@ -995,7 +995,7 @@
 	<key>u</key>
 	<string>u.glif</string>
 	<key>u.alt</key>
-	<string>u_alt.glif</string>
+	<string>u.alt.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ubreve</key>
@@ -1297,7 +1297,7 @@
 	<key>w</key>
 	<string>w.glif</string>
 	<key>w.alt</key>
-	<string>w_alt.glif</string>
+	<string>w.alt.glif</string>
 	<key>wacute</key>
 	<string>wacute.glif</string>
 	<key>wcircumflex</key>
@@ -1311,7 +1311,7 @@
 	<key>y</key>
 	<string>y.glif</string>
 	<key>y.alt</key>
-	<string>y_alt.glif</string>
+	<string>y.alt.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
 	<key>ycircumflex</key>
@@ -1337,11 +1337,11 @@
 	<key>zero</key>
 	<string>zero.glif</string>
 	<key>zero.denominator</key>
-	<string>zero_denominator.glif</string>
+	<string>zero.denominator.glif</string>
 	<key>zero.lnum</key>
-	<string>zero_lnum.glif</string>
+	<string>zero.lnum.glif</string>
 	<key>zero.numerator</key>
-	<string>zero_numerator.glif</string>
+	<string>zero.numerator.glif</string>
 	<key>zeroinferior</key>
 	<string>zeroinferior.glif</string>
 	<key>zerosuperior</key>

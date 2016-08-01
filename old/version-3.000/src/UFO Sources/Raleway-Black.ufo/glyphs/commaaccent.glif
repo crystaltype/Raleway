@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccent" format="1">
   <advance width="241"/>
-  <unicode hex="F6C3"/>
+  <unicode hex="0326"/>
   <outline>
-    <contour>
-      <point x="146" y="0" type="move" name="_bottom"/>
-    </contour>
     <contour>
       <point x="167" y="-213" type="line"/>
       <point x="221" y="-152" type="line"/>
@@ -15,9 +12,14 @@
       <point x="121" y="-152" type="line"/>
       <point x="85" y="-213" type="line"/>
     </contour>
+    <contour>
+      <point x="146" y="0" type="move" name="_bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-01 10:39:17 +0000</string>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>
