@@ -297,111 +297,8 @@ name = _KERN_l_1ST;
 copyright = "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name \"Raleway\"";
 customParameters = (
 {
-name = macintoshFONDFamilyID;
-value = 128;
-},
-{
-name = macintoshFONDName;
-value = Raleway;
-},
-{
-name = openTypeHeadLowestRecPPEM;
-value = 9;
-},
-{
-name = openTypeNameCompatibleFullName;
-value = "Raleway Thin Italic";
-},
-{
 name = description;
 value = "Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini.\012It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set.";
-},
-{
-name = openTypeNameLicense;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = openTypeNameLicenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = openTypeNameUniqueID;
-value = "MattMcInerney,PabloImpallari,RodrigoFuenzalida: Raleway Thin Italic: 2012";
-},
-{
-name = openTypeNameVersion;
-value = "Version 4.000";
-},
-{
-name = openTypeOS2CodePageRanges;
-value = (
-0,
-1,
-4,
-7
-);
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
-name = openTypeOS2Panose;
-value = (
-2,
-11,
-0,
-3,
-3,
-1,
-1,
-6,
-0,
-3
-);
-},
-{
-name = openTypeOS2StrikeoutPosition;
-value = 250;
-},
-{
-name = openTypeOS2StrikeoutSize;
-value = 50;
-},
-{
-name = openTypeOS2SubscriptXOffset;
-value = 0;
-},
-{
-name = openTypeOS2SubscriptXSize;
-value = 700;
-},
-{
-name = openTypeOS2SubscriptYOffset;
-value = 140;
-},
-{
-name = openTypeOS2SubscriptYSize;
-value = 650;
-},
-{
-name = openTypeOS2SuperscriptXOffset;
-value = 0;
-},
-{
-name = openTypeOS2SuperscriptXSize;
-value = 700;
-},
-{
-name = openTypeOS2SuperscriptYOffset;
-value = 477;
-},
-{
-name = openTypeOS2SuperscriptYSize;
-value = 650;
 },
 {
 name = fsType;
@@ -409,65 +306,8 @@ value = (
 );
 },
 {
-name = openTypeOS2UnicodeRanges;
-value = (
-0,
-1,
-2,
-3,
-4,
-5,
-7,
-29,
-31,
-32,
-33,
-35,
-36,
-38,
-60,
-62
-);
-},
-{
 name = vendorID;
 value = pyrs;
-},
-{
-name = postscriptBlueFuzz;
-value = 1;
-},
-{
-name = postscriptBlueScale;
-value = 0.039625;
-},
-{
-name = postscriptBlueShift;
-value = 7;
-},
-{
-name = postscriptDefaultWidthX;
-value = 500;
-},
-{
-name = postscriptForceBold;
-value = 0;
-},
-{
-name = postscriptIsFixedPitch;
-value = 0;
-},
-{
-name = postscriptSlantAngle;
-value = 0;
-},
-{
-name = postscriptUniqueID;
-value = -1;
-},
-{
-name = postscriptWindowsCharacterSet;
-value = 1;
 },
 {
 name = trademark;
@@ -476,6 +316,14 @@ value = "Raleway is a trademark of Matt McInerney.";
 {
 name = year;
 value = 2012;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
 }
 );
 date = "2016-08-01 09:39:25 +0000";
