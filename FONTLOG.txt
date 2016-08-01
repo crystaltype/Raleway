@@ -73,6 +73,9 @@ ChangeLog
 20 Feb 2010 (Matt McInerney) Raleway Light v1.01
 - Initial Release
 
+1 Aug 2016 (Marc Foley) Raleway v4.000 update
+- Modify repo layout to suite the new [gf-docs Project Checklist](https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md)
+
 Acknowledgements
 
 If you make modifications be sure to add your name (N), 
