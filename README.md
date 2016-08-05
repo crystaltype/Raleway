@@ -42,4 +42,4 @@ TTF Files hinted using TTF Autohint v0.96
 - Improve README.md
 - Fix glyphs, anchors and components
 - Run fonts through Font bakery and Ship fonts
-- Add TRADEMARKS.md
+- Add TRADEMARKS.txt
