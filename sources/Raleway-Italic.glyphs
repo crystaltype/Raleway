@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "911";
 classes = (
 {
 code = "L' Lacute Lcaron Lcommaaccent Ldot Lslash";
@@ -294,7 +294,7 @@ code = "l' f_f_l f_l lacute lcaron lcommaaccent lslash";
 name = _KERN_l_1ST;
 }
 );
-copyright = "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name \"Raleway\"";
+copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
 name = description;
@@ -410,7 +410,7 @@ value = 940;
 },
 {
 name = winDescent;
-value = -234;
+value = 234;
 },
 {
 name = underlineThickness;
@@ -474,7 +474,7 @@ value = 940;
 },
 {
 name = winDescent;
-value = -234;
+value = 234;
 },
 {
 name = underlineThickness;
@@ -540,7 +540,7 @@ value = 940;
 },
 {
 name = winDescent;
-value = -234;
+value = 234;
 },
 {
 name = underlineThickness;
@@ -51099,20 +51099,6 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-ThinItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway Thin Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 0;
 instanceInterpolations = {
 "D38D3CE8-FE00-46D7-8A67-935B0885B622" = 1;
@@ -51122,20 +51108,6 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-ExtraLightItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway ExtraLight Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 82.4;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 0.206;
@@ -51146,20 +51118,6 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-LightItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway Light Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 176.5;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 0.44125;
@@ -51170,20 +51128,6 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-Italic";
-},
-{
-name = postscriptFullName;
-value = "Raleway Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 282.3;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 0.70575;
@@ -51193,20 +51137,6 @@ isItalic = 1;
 name = Italic;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-MediumItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway Medium Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 1;
@@ -51216,20 +51146,6 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-SemiBoldItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway SemiBold Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 529.4;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 0.784333;
@@ -51240,20 +51156,6 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-BoldItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway Bold Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 670.6;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 0.549;
@@ -51265,20 +51167,6 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-ExtraBoldItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway ExtraBold Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 823.5;
 instanceInterpolations = {
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = 0.294167;
@@ -51289,20 +51177,6 @@ name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Raleway-BlackItalic";
-},
-{
-name = postscriptFullName;
-value = "Raleway Black Italic";
-},
-{
-name = styleMapFamilyName;
-value = Raleway;
-}
-);
 interpolationWeight = 1000;
 instanceInterpolations = {
 "985A8054-912F-442C-AEAA-CDACF2D0DECF" = 1;
@@ -61261,6 +61135,6 @@ uni2113,
 afii61352
 );
 };
-versionMajor = 2;
-versionMinor = 400;
+versionMajor = 4;
+versionMinor = 0;
 }
