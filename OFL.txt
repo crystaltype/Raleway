@@ -1,4 +1,4 @@
-Copyright (c) 2011, The Raleway Project Authors (matt@pixelspread.com),
+Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com),
 With Reserved Font Name Raleway,
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
