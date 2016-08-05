@@ -31,3 +31,15 @@ src/UFO&nbsp;Sources-TTF | Source Files in UFO format, generated from FL, ready 
 src/OTF | OTF files generated from src/FontLab Sources-OTF
 
 TTF Files hinted using TTF Autohint v0.96
+
+# Completed tasks:
+- Updated version number to V4.000
+- Fixed vertical metrics
+- Partially tidied up master compatilibity. This still needs further work.
+- Added instances
+
+# Todo:
+- Improve README.md
+- Fix glyphs, anchors and components
+- Run fonts through Font bakery and Ship fonts
+- Add TRADEMARKS.md
